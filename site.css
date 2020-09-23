@@ -11,45 +11,45 @@
 }
 
 body {
-	background-color: #502525;
-	color: #08dd08;
+	background-color:#583138;
+	color:#black;
 }
 
 h1 {
 }
 
-h2,h3,h4 {
-
+h2,h3,h4,h5,h6 {
+	background-color:#633643;
 }
 
 p {
+	background-color:#633643;
 }
 
 ul {
+	background-color:#633643;
 }
 
+article{
+
+}
 
 img {
 }
 
-
+li{
+	background-color:#633643;
+}
 
 header {
 	display: flex;
 	justify-content: center;
-}
-
-.bg1 {
-}
-
-.bg2 {
-}
-
-.bg3 {
+	background-color:#CEC2A9;
 }
 
 iframe {
 }
 
 footer {
+
 }
