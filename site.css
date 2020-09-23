@@ -9,7 +9,8 @@
 	section {
 }
 }
-
+	/* this is a style comment*/
+	div {border: thin dotted red;}
 body {
 	background-color:#583138;
 	color:#black;
@@ -26,18 +27,20 @@ p {
 	background-color:#633643;
 }
 
-ul {
+ul,ol {
 	background-color:#633643;
 }
 
 article{
 
 }
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
 
 img {
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 li{
