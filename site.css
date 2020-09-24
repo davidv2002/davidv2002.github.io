@@ -1,54 +1,39 @@
-@media only screen and (min-device-width: 300px) and (max-device-width: 840px){
 
-	section {
-	}
-
-}
-
-@media only screen and (min-device-width: 840px){
-	section {
-}
-}
 body {
-	background-color:#583138;
-	color:#black;
+	background-color:#633643;
+	color:#CEC2A9;
 }
 
 h1 {
 }
 
 h2,h3,h4,h5,h6 {
-	background-color:#633643;
+	background-color:#583138;
 }
 
 p {
-	background-color:#633643;
+	background-color:#583138;
 }
 
 ul,ol {
-	background-color:#633643;
+	background-color:#583138;
 }
 
 article{
 
-}
-.center {
-display: block;
-margin-left: auto;
-margin-right: auto;
 }
 
 img {
 }
 
 li{
-	background-color:#633643;
+	background-color:#583138;
 }
 
 header {
 	display: flex;
 	justify-content: center;
-	background-color:#CEC2A9;
+	background-color:#583138;
 }
 
 iframe {

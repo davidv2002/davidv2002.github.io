@@ -5,8 +5,8 @@
     <title>My computers</title>
 
     <meta name="author" content="David Verbeek">
-    <meta name="description" content="Learning HTML by building a website"> <!-- Webpage Description -->
-    <meta name="keywords" content="HTML, tags, webpage, website, building"> <!-- Key Words for conducting searches in Search Engines -->
+    <meta name="description" content="who am I website, computers"> <!-- Webpage Description -->
+    <meta name="keywords" content="David, Verbeek, Who, Am, I, computers"> <!-- Key Words for conducting searches in Search Engines -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Content gives value for name or http-equiv attribute, text entry for typeof string or array string -->
     <link href='../site.css' rel=stylesheet>
     <style>
@@ -15,6 +15,10 @@
       margin-left: auto;
       margin-right: auto;
       }
+      .center_txt {
+      	display: flex;
+      	justify-content: center;
+      }
     </style>
 
   </head>
@@ -22,15 +26,27 @@
   <body>
 
     <header><h1>These are my computers</h1></header>
-
     <section>
-      <h2> sentences with all the letters of the alphebet.</h2>
-          <br><br>
-          <p>the quick brown fox <sup>jumps</sup> over the <sub>lazy</sub> dog.</p>
-          <p>pack my <sub>box</sub> with five <sup>dozen</sup> liquor jugs.</p>
-
-    </section>
-
+      <h2 class="center_txt">The new</h2>
+      <article>
+        <p>
+          Let us start with my newest computer which is my new laptop a Lenovo ThinkPad E595, that uses the 4 core 8 thread AMD Ryzen 5 3500U apu with the Radeon Vega 8 gpu; it is a
+          workhorse laptop and a masive upgrade from my old but still working, Acer Aspire A315 that was using the Amd A9-9420 1 core 2 thread apu with the Radeon R5 gpu; it is now a linux only system.
+          <br>
+          Next we come to my gaming desktop a custom that I built myself. It is an overclocked Amd Ryzen 5 2600 that is clocked at 3.85GHZ all core; that is cooled with a 240mm aio liquid cooler that I put
+          2 4100rpm fans on each rated at 143CFM. The gpu is an overclocked AMD RX570 8GB card; that is overclocked not just for performance but to help rase the voltage, which helps fix an intermittent fault
+          which cuases system lockup. For storage I am using three drives 2 ssds and 1 hdd, the ssds are a pair of missmatched WD blue SATA drives that are running in software RAID for a read speed of 8.8Gb per second
+          the hdd is just a old 2TB Seagate Barracuda for extra storage. The rest of the parts are 2 8GB low speed ram stick a 750 watt psu and a x370 motherboard.
+          <br>
+        </p>
+      </article>
+      <article>
+        <audio controls>
+            <source src="..\Audio\deja vu midi.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+        </audio>
+      </article>
+      </section>
   </body>
 
   <footer>
