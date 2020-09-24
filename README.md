@@ -1,7 +1,7 @@
 # who am i
   this is a website project about me for computer science at queen e
   started Aug. 08 2020
-  lest edited Aug. 23 2020
+  lest edited Aug. 24 2020
   David Verbeek
   my name is David Verbeek and I am a student at queen Elizabeth 2 high school
   I am a Canadian and my ethnicity British
@@ -27,7 +27,7 @@
 
   I am a trained martial artist, specifically I am a red belt in taekwondo. I am also an Appalachian mountain step dancer, something I have done for almost my whole life. I have experience babysitting highly medically children: including mixing meds, feeding using an NG tube and of course changing diapers.
 
-  One of my favourite thing to do is work on my old computers, currently I am trying to learn how to use windows 98 SE well debugging a 1 GHZ Coppermine P3 that does not like any drives above 50 GB and half the time it fails to boot because the bios thinks that the CPU is not stable.
+  One of my favourite thing to do is work on my old computers, currently I am trying to learn how to use windows 98 SE well debugging a 1 GHZ Coppermine P3 that does not like any drives above 30 GB and half the time it fails to boot because the bios thinks that the CPU is not stable.
 
   One of my prior computers that I have gotten working is an old Windows XP Core 2 Quad Q9400 that I have upgraded from the P4 dual core version of the Core 2 duo E4300 that I have added: a 1GB Nvidia 9500gt, 8GB of ddr2 ram, SoundBlaster Audigy platinum EX and just some random wireless N card: all booting form a 160GB Seagate barracuda, it also dual boots ubuntu 20.04 because XP can not access a lot of the internet do to the age of the version of chrome that it supports.
 
