@@ -1,7 +1,7 @@
 # who am i
   this is a website project about me for computer science at queen e
   started Aug. 08 2020
-  lest edited Aug. 24 2020
+  lest edited Aug. 25 2020
   David Verbeek
   my name is David Verbeek and I am a student at queen Elizabeth 2 high school
   I am a Canadian and my ethnicity British
